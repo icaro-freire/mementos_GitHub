@@ -15,6 +15,8 @@ Texto qualquer só para dizer que o comando `<p align="center"> <img ...> </p>` 
 Também posso redimensionar dessa forma: `<img width="600" height="200" src="https://www.python.org/python-.png">`, como:
 
 <p align="center">
-<img width="600" height="200" src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z" />
+<img width="200" height="200" src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z" />
 </p>
+
+Mas, fica muito ruim!
 
