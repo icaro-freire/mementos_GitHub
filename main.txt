@@ -1,0 +1,9 @@
+Esse é um arquivo principal.
+
+Vou escrever um comando
+
+\[
+ f(z_0) = \frac{1}{2\pi i} \oint_{\Gamma} \frac{f(z)}{z - z_0}\,\textrm{d} z
+\]
+
+E depois criar uma ramificação.
