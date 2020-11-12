@@ -10,3 +10,11 @@ Uma equação que gosto muito é essa:
 Essas equações foram feita em LaTeX no [Editor Online Codecogs][CD], o qual gera um html.
 
 [CD]: https://www.codecogs.com/latex/eqneditor.php
+
+Texto qualquer só para dizer que o comando `<p align="center"> <img ...> </p>` deixa a equação centralizada.
+Também posso redimensionar dessa forma: `<img width="600" height="200" src="https://www.python.org/python-.png">`, como:
+
+<p align="center">
+<img width="600" height="200" src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z" />
+</p>
+
