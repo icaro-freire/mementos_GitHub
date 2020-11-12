@@ -7,3 +7,19 @@ Vou escrever um comando
 \]
 
 E depois criar uma ramificação.
+
+Teste com o primeiro Branch.
+
+Vou fazer uma modificação nesse código:
+
+%------------------------------------------------------------------------------
+\documentoclass{article}
+
+\usepackage{mathtools}
+
+\begin{document}
+\[
+ f(z_0) = \frac{1}{2\pi i} \oint_{\Gamma} \frac{f(z)}{z - z_0}\,\textrm{d} z
+\] 
+\end{document}
+%------------------------------------------------------------------------------
