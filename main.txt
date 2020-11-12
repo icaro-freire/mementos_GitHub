@@ -32,3 +32,5 @@ Estou fazendo essa modificação para saber se é no Main ou no Branch.
 
 * Consegui fazer o Clone.
 Estou fazendo essa modificação em um novo Branch para ir lembrando.
+
+* Fiz um Merge e agora vou acrescentar uma pasta para colocar a figura
