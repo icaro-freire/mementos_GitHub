@@ -16,6 +16,7 @@ Vou fazer uma modificação nesse código:
 \documentoclass{article}
 
 \usepackage{mathtools}
+\usepackage{mathspec}
 
 \begin{document}
 \[
