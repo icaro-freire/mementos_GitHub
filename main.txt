@@ -26,3 +26,6 @@ Vou fazer uma modificação nesse código:
 %------------------------------------------------------------------------------
 
 Tudo isso é bom!
+
+* Consegui fazer o primeiro Pull no meu PC.
+Estou fazendo essa modificação para saber se é no Main ou no Branch.
