@@ -1,3 +1,3 @@
 # Teste para Futuro Programa de Extensão
 
-$\tau \varepsilon \chi$ é tecnologia, em Grego.
+$$\Tau\varepsilon\Chi$$ é tecnologia, em Grego.
