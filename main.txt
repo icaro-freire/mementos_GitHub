@@ -29,3 +29,6 @@ Tudo isso é bom!
 
 * Consegui fazer o primeiro Pull no meu PC.
 Estou fazendo essa modificação para saber se é no Main ou no Branch.
+
+* Consegui fazer o Clone.
+Estou fazendo essa modificação em um novo Branch para ir lembrando.
