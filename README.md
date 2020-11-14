@@ -22,7 +22,7 @@ Mas, fica muito ruim!
 
 Agora um teste para gerar uma árvore de diretórios
 
-```
+```bash
 guia_ativmatUFRB ├  │ · ─ └
 ·
 │
