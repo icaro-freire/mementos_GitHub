@@ -23,22 +23,43 @@ Mas, fica muito ruim!
 Agora um teste para gerar uma árvore de diretórios
 
 ```
-guia_ativmatUFRB
-·
+ativmatUFRB
+■
 │
-├── aux-files
-│    ├─ ...
-│    └─ ...
-├── tex
-│    ├─ 00_resumo-sumario.tex 
-│    ├─ 01_antes-de-comecar.tex
-│    ├─ 02_como-instalar.tex
-│    ├─ 03_explicando-a-classe.tex
-│    └─ 04_lista-de-pacotes.tex
-├── guia_ativmatUFRB.cls
-├── guia-ativmatUFRB_v1.61.pdf
-├── guia-ativmatUFRB_v1.61.synctex
-├── guia-ativmatUFRB_v1.61
+├── guia_ativmatUFRB
+│     ·
+│     ├── aux-files
+│     │    ├── ...
+│     │    └── ...
+│     ├── tex
+│     │    ├── 00_resumo-sumario.tex 
+│     │    ├── 01_antes-de-comecar.tex
+│     │    ├── 02_como-instalar.tex
+│     │    ├── 03_explicando-a-classe.tex
+│     │    └── 04_lista-de-pacotes.tex
+│     ├── guia_ativmatUFRB.cls
+│     ├── guia-ativmatUFRB_v1.61.pdf
+│     ├── guia-ativmatUFRB_v1.61.synctex
+│     ├── guia-ativmatUFRB_v1.61
+│     └── README.md
+│
+├── classe_ativmatUFRB
+│     ·
+│     ├── aux-files
+│     │     ├── ...
+│     │     └── ...
+│     ├── figs
+│     │     ├── espiral.pdf
+│     │     └── ufrb.jpeg
+│     ├── fonts
+│     │     └── intimacy
+│     │           ├── intimacy.ttf
+│     │           └── intimcy2.ttf
+│     ├── ativmatUFRB.cls
+│     ├── modelo_ativmatUFRB_v1.61.pdf
+│     ├── modelo_ativmatUFRB_v1.61.synctex
+│     ├── modelo_ativmatUFRB_v1.61.tex
+│     └── README.md
 └── README.md
 ```
 
