@@ -22,7 +22,7 @@ Mas, fica muito ruim!
 
 Agora um teste para gerar uma árvore de diretórios
 
-```bash
+```r
 classe-para-atividades_ativmatUFRB
 +-- guia-do-usuario_ativmatUFRB
 |   +-- figs
