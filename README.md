@@ -26,7 +26,7 @@ Agora um teste para gerar uma árvore de diretórios
 classe-para-atividades_ativmatUFRB
 |
 +--- guia-do-usuario_ativmatUFRB
-|    +--- figs
+|    ├── figs
 |         +--- logo.png
 |   +--- tex
 |       +--- 00_resumo-sumario.tex
