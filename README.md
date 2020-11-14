@@ -25,9 +25,7 @@ Agora um teste para gerar uma árvore de diretórios
 ```bash
 guia_ativmatUFRB ├  │ · ─ └
 ·
-│
 ├── guia_ativmatUFRB
-│
 └── classe_ativmatUFRB
 ```
 
