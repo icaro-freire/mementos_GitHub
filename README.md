@@ -22,25 +22,26 @@ Mas, fica muito ruim!
 
 Agora um teste para gerar uma árvore de diretórios
 
-```{r}
+```
 classe-para-atividades_ativmatUFRB
-+-- guia-do-usuario_ativmatUFRB
-|   +-- figs
-|       +-- logo.png
-|   +-- tex
-|       +-- 00_resumo-sumario.tex
-|       +-- 01_antes-de-comecar.tex
-+-- classe_ativmatUFRB
-|   +-- figs
+|
++--- guia-do-usuario_ativmatUFRB
+|    +--- figs
+|         +--- logo.png
+|   +--- tex
+|       +--- 00_resumo-sumario.tex
+|       +--- 01_antes-de-comecar.tex
++--- classe_ativmatUFRB
+|   +--- figs
 |       +-- miktex.png
-|   +-- fonts
-|       +-- intimacy
-|           +-- intimacy.ttf
-|           +-- intimcy2.ttf
-|   +-- ativmatUFRB.cls
-|   +-- modelo_ativmatUFRB.pdf
-|   +-- modelo_ativmatUFRB.synctex
-|   +-- modelo_ativmatUFRB.tex
-|   +-- README.md
+|   +--- fonts
+|       +--- intimacy
+|           +--- intimacy.ttf
+|           +--- intimcy2.ttf
+|   +--- ativmatUFRB.cls
+|   +--- modelo_ativmatUFRB.pdf
+|   +--- modelo_ativmatUFRB.synctex
+|   +--- modelo_ativmatUFRB.tex
+|   +--- README.md
 ```
 
