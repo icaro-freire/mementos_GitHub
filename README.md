@@ -2,14 +2,12 @@
  <img width="200px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos GitHub" />
  <h2 align="center">Mementos GitHub</h2>
  <p align="center">(Recordar é viver :sweat_smile:)</p>
- <p align="center" :construction: Em Contrução :construction:></p>
+ <p align="center"> :construction: Em Contrução :construction: </p>
 </p>
 
 Tabela de conteúdos
 =================
-<!--ts-->
    * [Colocando Imagem Inicial no README](#colocando-imagem-inicial-no-readme)
-<!--te-->
 
 # Colocando Imagem Inicial no README
 
