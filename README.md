@@ -38,7 +38,8 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
   <p align="center">
       (Recordar é viver :sweat_smile:)
   </p>
-</p>```
+</p>
+```
 
 # Escrevendo em <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>
 
