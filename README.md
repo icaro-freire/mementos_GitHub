@@ -22,7 +22,7 @@ Tabela de conteúdos
 
 # Colocando Imagem Inicial no README
 
-Para colocar a imagem na página inicial de cada reposotório, no README.md, usa-se `html`:
+Para colocar a imagem na página inicial de cada reposotório, no README.md, usa-se _html_:
 
 ```html
 <p align="center">
@@ -40,6 +40,29 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
   </p>
 </p>
 ```
+## Alinhamento e Dimensionamento de Imagem
+#### Em Markdown
+Para inserir uma imagem em markdown, basta fazer `![](caminho-da-imagem)`.
+#### Em Html
+Para inserir e dimensionar, usamos:
+```html
+<img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"/>
+```
+Pra deixar centralizada no texto:alinhar e dimensionar imagens usamos os comandos em _html_:
+```html
+<p align="center">
+  <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"/>
+</p>
+```
+
+<img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="300"/>
+
+vs
+
+<p align="center">
+  <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="300"/>
+</p>
+
 
 # Escrevendo em LaTeX
 
@@ -74,10 +97,8 @@ Mas, para gerar esses comandos, precisamos:
 Como mostra a figura a seguir:
 
 <p align="center">
-  <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="1000"/>
+  <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"/>
 </p>
-
-
 
 # Criando Ávore de Diretórios para o GitHub
 
