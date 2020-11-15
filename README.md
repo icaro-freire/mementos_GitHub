@@ -14,9 +14,10 @@
 </p>
 
 Tabela de conteúdos
-====================
+-------------------
 <!--ts-->
    * [Colocando Imagem Inicial no README](#colocando-imagem-inicial-no-readme)
+   * [Alinhamento e Dimensionamento de Imagem](#alinhamento-e-dimensionamento-de-imagem)
 <!--te-->
 
 
@@ -105,3 +106,5 @@ mementos_GitHub/
   │   └── fig-github.png
   └── README.md
 ```
+
+teste ![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/last-update/mementos)
