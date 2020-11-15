@@ -73,6 +73,7 @@ Mas, para gerar esses comandos, precisamos:
 
 Como mostra a figura a seguir:
 
+![Editor Online](https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png)
 
 
 # Criando Ávore de Diretórios para o GitHub
