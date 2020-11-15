@@ -22,6 +22,18 @@ Mas, fica muito ruim!
 
 Agora um teste para gerar uma árvore de diretórios
 
+#### Deste de árvore de diretório para esse repositório
+
+```
+teste_TeX_projeto
+  .
+  ├── figs/
+  │   ├── bateria.png
+  │   └── readme.md
+  ├── main.txt
+  └── README.md
+```
+
 #### Forma resumida
 ```
 ativmatUFRB
