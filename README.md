@@ -8,9 +8,9 @@
   <h2 align="center">
       Mementos GitHub
   </h2>
-  <p align="center">
+  <h3 align="center">
       (Recordar é viver :sweat_smile:)
-  </p>
+  </h3>
 </p>
 
 > `Mementos` significa "lembranças", "recordações". Esse repositório é para arquivamento de comandos do GitHub que vou usando durante o aprendizado. A ideia é organizar num único local onde eu possa acessá-los com facilidade.
@@ -64,7 +64,7 @@ Pra deixar centralizada no texto:alinhar e dimensionar imagens usamos os comando
 
 # Escrevendo em LaTeX
 
-Nâo consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
+Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
 Para fazer isso, é preciso gerar um `html` num editor _online_ de <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.\n
 Uso o [codecogs][CD].
 
