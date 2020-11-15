@@ -14,7 +14,7 @@
 </p>
 
 > `Mementos` significa "lembranças", "recordações". Esse repositório é para arquivamento de comandos do GitHub que vou usando durante o aprendizado. A ideia é organizar num único local onde eu possa acessá-los com facilidade.
-
+---
 Sumário
 -------------------
 <!--ts-->
@@ -25,7 +25,7 @@ Sumário
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
 <!--te-->
-
+---
 
 # Colocando Imagem Inicial no README
 
