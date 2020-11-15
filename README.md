@@ -21,7 +21,7 @@ Sumário
        - [Em Markdown](#em-markdown)
        - [Em Html](#em-html)
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
-   * [Criando Ávore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
+   * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
 <!--te-->
 
 
@@ -96,7 +96,7 @@ Como mostra a figura a seguir:
   <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"/>
 </p>
 
-# Criando Ávore de Diretórios para o GitHub
+# Criando Árvore de Diretórios para o GitHub
 - Uso o _site_ [tree](https://tree.nathanfriend.io/) para digitar meus diretórios de maneira bem simples.
 - Depois copio o texto gerado pelo site
 - Por fim, colo aqui no README do GitHub
