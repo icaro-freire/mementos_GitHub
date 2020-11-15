@@ -75,6 +75,13 @@ Como mostra a figura a seguir:
 
 ![Editor Online](https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png)
 
+<p align="center">
+  <img
+      align="center"
+      width="5cm"
+      src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png"
+  />
+</p>
 
 # Criando Ávore de Diretórios para o GitHub
 
