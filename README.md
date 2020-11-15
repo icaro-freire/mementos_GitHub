@@ -22,6 +22,14 @@ Mas, fica muito ruim!
 
 Agora um teste para gerar uma árvore de diretórios
 
+#### Forma resumida
+```
+ativmatUFRB
+ │
+ ├── guia_ativmatUFRB
+ └── classe_ativmatUFRB
+ ```
+#### Forma não resumida
 ```
 ativmatUFRB
  ■
