@@ -13,11 +13,15 @@
   </p>
 </p>
 
-Tabela de conteúdos
+Sumário
 -------------------
 <!--ts-->
    * [Colocando Imagem Inicial no README](#colocando-imagem-inicial-no-readme)
    * [Alinhamento e Dimensionamento de Imagem](#alinhamento-e-dimensionamento-de-imagem)
+       - [Em Markdown](#em-markdown)
+       - [Em Html](#em-html)
+   * [Escrevendo em LaTeX](#escrevendo-em-latex)
+   * [Criando Ávore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
 <!--te-->
 
 
