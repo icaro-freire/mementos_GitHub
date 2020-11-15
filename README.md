@@ -6,10 +6,10 @@
          alt="Mementos GitHub" 
   />
   <h2 align="center">
-      Mementos GitHub
-     <p align="center">
-      (Recordar é viver :sweat_smile:)
-     </p>
+      Mementos do GitHub
+         <p align="center">
+             (porque recordar é viver :sweat_smile:)
+         </p>
   </h2>
 </p>
 
