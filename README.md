@@ -25,8 +25,11 @@ Agora um teste para gerar uma árvore de diretórios
 #### Forma resumida
 
 ativmatUFRB
+
  │
+ 
  ├── :file_folder: guia_ativmatUFRB
+ 
  └── :file_folder: classe_ativmatUFRB
 
 #### Forma não resumida
