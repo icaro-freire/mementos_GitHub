@@ -41,20 +41,15 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
 </p>
 ```
 
-# Escrevendo em <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>
+# Escrevendo em LaTeX
 
-Nâo consegui escrever diretamente no README do GitHub usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.
-Para fazer isso, é preciso gerar um `html` num editor _online_ de <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.
+Nâo consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
+Para fazer isso, é preciso gerar um `html` num editor _online_ de <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.\n
 Uso o [codecogs][CD].
 
 Por exemplo, se quero gerar a equação:
 
-<p align="center">
-  <img 
-      src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
-      title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
-  />
-</p>
+<a href="https://www.codecogs.com/eqnedit.php?latex=f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z" /></a>
 
 Usamos os comandos
 
@@ -66,6 +61,7 @@ Usamos os comandos
   />
 </p>
 ```
+Ms, para gerar esses comandos, precisamos digitar a equação no _site_ [codecogs][CD] 
 
 # Criando Ávore de Diretórios para o GitHub
 
