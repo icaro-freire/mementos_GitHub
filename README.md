@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos Github" />
+ <img width="200px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos Github" />
  <h2 align="center">Mementos GitHub</h2>
  <p align="center">(Recordar é viver ...)</p>
 </p>
