@@ -73,9 +73,11 @@ Mas, para gerar esses comandos, precisamos:
 
 Como mostra a figura a seguir:
 
-![Editor Online](./figs/codecogs.png =200x)
+![](./figs/codecogs.png =200x)
 
-https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png
+<img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="200"/>
+
+
 
 # Criando Ávore de Diretórios para o GitHub
 
