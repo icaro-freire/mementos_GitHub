@@ -49,7 +49,12 @@ Uso o [codecogs][CD].
 
 Por exemplo, se quero gerar a equação:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z" title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z" /></a>
+<p align="center">
+  <img 
+      src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
+      title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
+  />
+</p>
 
 Usamos os comandos
 
@@ -61,7 +66,14 @@ Usamos os comandos
   />
 </p>
 ```
-Ms, para gerar esses comandos, precisamos digitar a equação no _site_ [codecogs][CD] 
+Mas, para gerar esses comandos, precisamos:
+1. digitar a equação no _site_ [codecogs][CD];
+2. verificar o tamanho adequado;
+3. copiar o _link_ htlm gerado.
+
+Como mostra a figura a seguir:
+
+
 
 # Criando Ávore de Diretórios para o GitHub
 
