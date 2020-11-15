@@ -23,52 +23,51 @@ Mas, fica muito ruim!
 Agora um teste para gerar uma árvore de diretórios
 
 #### Forma resumida
-
 ```
 ativmatUFRB
- │ 
- ├── :file_folder: guia_ativmatUFRB
- └── :file_folder: classe_ativmatUFRB
-```
+ │
+ ├── guia_ativmatUFRB
+ └── classe_ativmatUFRB
+ ```
 #### Forma não resumida
 ```
-:open_file_folder: ativmatUFRB
+ativmatUFRB
  ■
  │
- ├──:file_folder: guia_ativmatUFRB
+ ├── guia_ativmatUFRB
  │     ·
- │     ├──:file_folder: aux-files
+ │     ├── aux-files
  │     │    ├── ...
  │     │    └── ...
- │     ├──:file_folder: tex
- │     │    ├──:page_facing_up: 00_resumo-sumario.tex 
- │     │    ├──:page_facing_up: 01_antes-de-comecar.tex
- │     │    ├──:page_facing_up: 02_como-instalar.tex
- │     │    ├──:page_facing_up: 03_explicando-a-classe.tex
- │     │    └──:page_facing_up: 04_lista-de-pacotes.tex
- │     ├──:page_facing_up: guia_ativmatUFRB.cls
- │     ├──:page_facing_up: guia-ativmatUFRB_v1.61.pdf
- │     ├──:page_facing_up: guia-ativmatUFRB_v1.61.synctex
- │     ├──:page_facing_up: guia-ativmatUFRB_v1.61
- │     └──:page_facing_up: README.md
+ │     ├── tex
+ │     │    ├── 00_resumo-sumario.tex 
+ │     │    ├── 01_antes-de-comecar.tex
+ │     │    ├── 02_como-instalar.tex
+ │     │    ├── 03_explicando-a-classe.tex
+ │     │    └── 04_lista-de-pacotes.tex
+ │     ├── guia_ativmatUFRB.cls
+ │     ├── guia-ativmatUFRB_v1.61.pdf
+ │     ├── guia-ativmatUFRB_v1.61.synctex
+ │     ├── guia-ativmatUFRB_v1.61
+ │     └── README.md
  │
- ├──:file_folder: classe_ativmatUFRB
+ ├── classe_ativmatUFRB
  │     ·
- │     ├──:file_folder: aux-files
+ │     ├── aux-files
  │     │     ├── ...
  │     │     └── ...
- │     ├──:file_folder: figs
- │     │     ├──:scroll: espiral.pdf
- │     │     └──:scroll: ufrb.jpeg
- │     ├──:file_folder: fonts
- │     │     └──:file_folder: intimacy
- │     │           ├──:scroll: intimacy.ttf
- │     │           └──:scroll: intimcy2.ttf
- │     ├──:scroll: ativmatUFRB.cls
- │     ├──:scroll: modelo_ativmatUFRB_v1.61.pdf
- │     ├──:scroll: modelo_ativmatUFRB_v1.61.synctex
- │     ├──:scroll: modelo_ativmatUFRB_v1.61.tex
- │     └──:scroll: README.md
- └──:scroll: README.md
+ │     ├── figs
+ │     │     ├── espiral.pdf
+ │     │     └── ufrb.jpeg
+ │     ├── fonts
+ │     │     └── intimacy
+ │     │           ├── intimacy.ttf
+ │     │           └── intimcy2.ttf
+ │     ├── ativmatUFRB.cls
+ │     ├── modelo_ativmatUFRB_v1.61.pdf
+ │     ├── modelo_ativmatUFRB_v1.61.synctex
+ │     ├── modelo_ativmatUFRB_v1.61.tex
+ │     └── README.md
+ └── README.md
 ```
 
