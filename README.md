@@ -1,11 +1,34 @@
 <p align="center">
- <img width="200px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos Github" />
+ <img width="200px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos GitHub" />
  <h2 align="center">Mementos GitHub</h2>
- <p align="center">(Recordar é viver ...)</p>
+ <p align="center">(Recordar é viver :sweat_smile:)</p>
+ <p align="center" :construction: Em Contrução :construction:>/p>
 </p>
 
-# Teste para Futuro Programa de Extensão
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Colocando Imagem Inicial no README](#colocando-imagem-inicial-no-readme)
+<!--te-->
 
+# Colocando Imagem Inicial no README
+
+Para colocar a imagem na página inicial de cada reposotório, no README.md, usa-se html:
+
+```html
+<p align="center">
+ <img width="200px" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png" align="center" alt="Mementos GitHub" />
+ <h2 align="center">Mementos GitHub</h2>
+ <p align="center">(Recordar é viver :sweat_smile:)</p>
+ <p align="center" :construction: Em Contrução :construction:>/p>
+</p>
+```
+
+# Escrevendo em $$LaTeX$$
+
+# Criando Ávore de Diretórios para o GitHub
+
+# ALternativas para Links
 <a href="https://www.codecogs.com/eqnedit.php?latex=\tau\varepsilon\chi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\tau\varepsilon\chi" title="\tau\varepsilon\chi" /></a> é tecnologia, em Grego.
 
 Uma equação que gosto muito é essa:
