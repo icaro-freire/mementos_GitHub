@@ -63,7 +63,7 @@ Sumário
    * [Alinhamento e Dimensionamento de Imagem](#alinhamento-e-dimensionamento-de-imagem)
        - [Em Markdown](#em-markdown)
        - [Em Html](#em-html)
-       - [Imagens por caminhos absolutos](imagens-por-caminhos-absolutos)
+       - [Imagens por caminhos absolutos](#imagens-por-caminhos-absolutos)
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
    * [Usando o .gitignore](#usando-o-gitignore)
