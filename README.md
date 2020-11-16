@@ -16,7 +16,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/icaro-freire/mementos_GitHub)](https://github.com/icaro-freire/mementos_GitHub/issues)
 [![GitHub forks](https://img.shields.io/github/forks/icaro-freire/mementos_GitHub)](https://github.com/icaro-freire/mementos_GitHub/network)
 [![GitHub stars](https://img.shields.io/github/stars/icaro-freire/mementos_GitHub)](https://github.com/icaro-freire/mementos_GitHub/stargazers)
-[![GitHub telegram](https://img.shields.io/badge/telegram-%40IcaroFreire-blue)
+https://img.shields.io/badge/telegram-%40IcaroFreire-blue
 
 
 > `Mementos` significa "lembranças", "recordações". Esse repositório é para arquivamento de comandos do GitHub que vou usando durante o aprendizado. A ideia é organizar num único local onde eu possa acessá-los com facilidade.
