@@ -210,5 +210,5 @@ mementos_GitHub/
 ```
 # Usando o .gitignore
 
-- Para ignorar uma pasta, basta digitar no arquivo `.gitignore`: `nome-da-pasta/` 
+- Para ignorar uma pasta, basta digitar no arquivo _.gitignore_: `nome-da-pasta/` 
 - para ignorar arquivos: `*.extensao-do-arquivo` 
