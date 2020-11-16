@@ -1,15 +1,15 @@
 <p align="center">
   <img
-     width="200px"
-     align="center"
-     src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
-         alt="Mementos GitHub" 
+      width = "200px"
+      align = "center"
+      src   = "https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
+      alt   = "Mementos GitHub" 
   />
-  <h2 align="center">
-      Mementos do GitHub
-         <p align="center">
+  <h2 align = "center">
+      Mementos do GitHub 
+          <p align = "center">
              (porque recordar é viver :sweat_smile:)
-         </p>
+          </p>
   </h2>
 </p>
 
@@ -19,24 +19,41 @@
        alt   = "GitHub last commit" 
        src   = "https://img.shields.io/github/last-commit/icaro-freire/mementos_GitHub"
   \>
-  <a
-       href="https://github.com/icaro-freire/mementos_GitHub/network">
-         <img 
-              align = "center" 
-              alt   = "GitHub forks" 
-              src   = "https://img.shields.io/github/forks/icaro-freire/mementos_GitHub"
-         >
+  <a href="https://github.com/icaro-freire/mementos_GitHub/network">
+      <img 
+          align = "center" 
+          alt   = "GitHub forks" 
+          src   = "https://img.shields.io/github/forks/icaro-freire/mementos_GitHub"
+      >
   </a>
-  <a href="https://github.com/icaro-freire/mementos_GitHub/stargazers"><img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/icaro-freire/mementos_GitHub"></a>
-  <a href="https://github.com/icaro-freire/mementos_GitHub/issues"><img align="center" alt="GitHub issues" src="https://img.shields.io/github/issues/icaro-freire/mementos_GitHub"></a>
+  <a href = "https://github.com/icaro-freire/mementos_GitHub/stargazers">
+      <img 
+          align = "center" 
+          alt   = "GitHub stars" 
+          src   = "https://img.shields.io/github/stars/icaro-freire/mementos_GitHub"
+      >
+  </a>
+  <a href = "https://github.com/icaro-freire/mementos_GitHub/issues">
+      <img 
+          align = "center" 
+          alt   = "GitHub issues" 
+          src   = "https://img.shields.io/github/issues/icaro-freire/mementos_GitHub"
+      >
+  </a>
 </p>
-<p align="center">
-  <a href="https://t.me/IcaroFreire"><img align="center" alt="GitHub issues" src="https://img.shields.io/badge/contact-Telegram-2CA5E0?logo=Telegram&style=for-the-badge"></a>
+<p align = "center">
+  <a href = "https://t.me/IcaroFreire">
+      <img 
+          align = "center" 
+          alt   = "GitHub issues" 
+          src   = "https://img.shields.io/badge/contact-Telegram-2CA5E0?logo=Telegram&style=for-the-badge"
+      >
+  </a>
 </p>
 
-
-
-> `Mementos` significa "lembranças", "recordações". Esse repositório é para arquivamento de comandos do GitHub que vou usando durante o aprendizado. A ideia é organizar num único local para que eu possa acessá-los com facilidade.
+> `Mementos` significa "lembranças", "recordações". 
+Esse repositório é para arquivamento de comandos do GitHub que vou usando durante o aprendizado. 
+A ideia é organizar num único local para que eu possa acessá-los com facilidade.
 
 Sumário
 -------------------
@@ -56,14 +73,14 @@ Sumário
 Para colocar a imagem na página inicial de cada reposotório, no README.md, usa-se _html_:
 
 ```html
-<p align="center">
-  <img
-     width="200px"
-     align="center"
-     src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
-         alt="Mementos GitHub" 
+<p align = "center">
+   <img 
+        width = "200px"
+        align = "center"
+        src   = "https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
+        alt   = "Mementos GitHub" 
   />
-  <h2 align="center">
+  <h2 align = "center">
       Mementos GitHub
   </h2>
   <p align="center">
@@ -72,10 +89,10 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
 </p>
 ```
 # Botões Estilizados (Badges)
-- Para colocar os vários botões estilizados, pode ser usado o _site_ [shields.io](https://shields.io/);
-- Tal site pode sugerir os _badges_ ou podemos criar um;
-     + Caso criemos um, uma imagem é gerada sem um link. Então, precisamos colocar `![url-da-imagem-gerada](link-desejado)`;
-- Tenho percebido que o _Html_ facilita na hora da centralização dos objetos. 
+  - Para colocar os vários botões estilizados, pode ser usado o _site_ [shields.io](https://shields.io/);
+  - Tal site pode sugerir os _badges_ ou podemos criar um;
+     + Caso criemos um, uma imagem é gerada sem um link. Então, precisamos colocar `![url-da-imagem-gerada](link-desejado)`;  
+  - Tenho percebido que o _Html_ facilita na hora da centralização dos objetos. 
 Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui](https://github.com/alexandresanlim/Badges4-README.md-Profile).
 
 # Alinhamento e Dimensionamento de Imagem
@@ -83,13 +100,31 @@ Um repositório que contém muitas informações sobre customização de _badges
 Para inserir uma imagem em markdown, basta fazer `![](caminho-da-imagem)`.
 ### Em Html
 Para inserir e dimensionar, usamos:
+
 ```html
-<img align="center" src="caminho-da-imagem" alt="nome-alternativo" width="n"/>
+<img 
+     align = "center" 
+     src   = "caminho-da-imagem" 
+     alt   = "nome-alternativo" 
+     width = "n"
+/>
 ```
-Pra deixar centralizada no texto:alinhar e dimensionar imagens usamos os comandos em _html_:
+Obsservações
+  a) `align` centraliza a imagem _inline_;
+  b) `src` é o local onde inserimos a *url* onde está hospedada a imagem (numa pasta do repositório, por exemplo);
+  c) `alt` é um nome que irá substituir (nome alternativo) a imagem, caso esta não seja carregada por algum motivo;
+  d) `width` é a largura da imagem e *n* é um número inteiro. 
+
+Pra deixar centralizada em relação à largura da margem do texto, usamos os comandos em _html_:
+
 ```html
 <p align="center">
-  <img align="center" src="caminho-da-imagem" alt="nome-alternativo" width="n"/>
+  <img 
+       align = "center" 
+       src   = "caminho-da-imagem" 
+       alt   = "nome-alternativo" 
+       width = "n"
+  />
 </p>
 ```
 
@@ -103,8 +138,8 @@ Por exemplo, se quero gerar a equação:
 
 <p align="center">
   <img 
-      src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
-      title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
+      src   = "https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
+      title = "f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
   />
 </p>
 
@@ -113,8 +148,8 @@ Usamos os comandos
 ```html
 <p align="center">
   <img 
-      src="https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
-      title="f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
+      src   = "https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
+      title = "f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
   />
 </p>
 ```
