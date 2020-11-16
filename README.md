@@ -110,10 +110,10 @@ Para inserir e dimensionar, usamos:
 />
 ```
 Obsservações
-  a) `align` centraliza a imagem _inline_;
-  b) `src` é o local onde inserimos a *url* onde está hospedada a imagem (numa pasta do repositório, por exemplo);
-  c) `alt` é um nome que irá substituir (nome alternativo) a imagem, caso esta não seja carregada por algum motivo;
-  d) `width` é a largura da imagem e *n* é um número inteiro. 
+a) `align` centraliza a imagem _inline_;
+b) `src` é o local onde inserimos a *url* onde está hospedada a imagem (numa pasta do repositório, por exemplo);
+c) `alt` é um nome que irá substituir (nome alternativo) a imagem, caso esta não seja carregada por algum motivo;
+d) `width` é a largura da imagem e *n* é um número inteiro. 
 
 Pra deixar centralizada em relação à largura da margem do texto, usamos os comandos em _html_:
 
@@ -133,6 +133,8 @@ Pra deixar centralizada em relação à largura da margem do texto, usamos os co
 Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
 Para fazer isso, é preciso gerar um `html` num editor _online_ de <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.\n
 Uso o [codecogs][CD].
+
+[CD]: https://www.codecogs.com/latex/eqneditor.php?lang=pt-br
 
 Por exemplo, se quero gerar a equação:
 
