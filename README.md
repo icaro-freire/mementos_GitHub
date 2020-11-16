@@ -63,6 +63,7 @@ Sumário
    * [Alinhamento e Dimensionamento de Imagem](#alinhamento-e-dimensionamento-de-imagem)
        - [Em Markdown](#em-markdown)
        - [Em Html](#em-html)
+       - [Imagens por caminhos absolutos](imagens-por-caminhos-absolutos)
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
    * [Usando o .gitignore](#usando-o-gitignore)
@@ -129,7 +130,28 @@ Pra deixar centralizada em relação à largura da margem do texto, usamos os co
   />
 </p>
 ```
+### Imagens por caminhos absolutos
+- É possível colocar as imagens, usando os diretórios do próprio GitHub.
+    + isso evita quebra de _link_ quando pegamos de alguma `url`.
+Para o `gif` a segui, o código foi:
+```bash
+![gato-felix](/figs/gato-felix.gif)
+```
+![gato-felix](/figs/gato-felix.gif)
 
+Caso precise centralizar, é melhor usar _html_:
+```html
+<p align="center">
+   <img 
+        align = "center" 
+        src   = "/figs/gato-felix.gif">
+</p>
+```
+<p align="center">
+   <img 
+        align = "center" 
+        src   = "/figs/gato-felix.gif">
+</p>
 # Escrevendo em LaTeX
 
 Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
@@ -187,5 +209,3 @@ mementos_GitHub/
 
 - Para ignorar uma pasta, basta digitar no arquivo `.gitignore`: `nome-da-pasta/` 
 - para ignorar arquivos: `*.extensao-do-arquivo` 
-
-
