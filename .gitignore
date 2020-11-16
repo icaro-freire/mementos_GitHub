@@ -3,3 +3,5 @@
 
 # Ignorar essa pasta
 aux-files/
+
+*.gitignore
