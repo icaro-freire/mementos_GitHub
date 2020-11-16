@@ -1,9 +1,5 @@
 # Ignorar todos esses arquivos
-*.synctex
-*.synctex(busy)
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
+/*.synctex
 
 # Ignorar essa pasta
 aux-files/
