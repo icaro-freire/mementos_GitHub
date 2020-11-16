@@ -56,11 +56,11 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
 </p>
 ```
 # Botões Estilizados (Badges)
-- Para colocar os vários botões estilizados, pode ser usado o _site_ [shields.io](https://shields.io/) <i class="fa fa-external-link" aria-hidden="true"></i>;
+- Para colocar os vários botões estilizados, pode ser usado o _site_ [shields.io](https://shields.io/);
 - Tal site pode sugerir os _badges_ ou podemos criar um;
      + Caso criemos um, uma imagem é gerada sem um link. Então, precisamos colocar `![url-da-imagem-gerada](link-desejado)`;
 - Tenho percebido que o _Html_ facilita na hora da centralização dos objetos. 
-Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui](https://github.com/alexandresanlim/Badges4-README.md-Profile) <i class="fa fa-external-link" aria-hidden="true"></i>.
+Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui](https://github.com/alexandresanlim/Badges4-README.md-Profile).
 
 # Alinhamento e Dimensionamento de Imagem
 ### Em Markdown
