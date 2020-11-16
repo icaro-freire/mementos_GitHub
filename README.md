@@ -113,7 +113,8 @@ Obsservações
 - `align` centraliza a imagem _inline_;
 - `src` é o local onde inserimos a *url* onde está hospedada a imagem (numa pasta do repositório, por exemplo);
 - `alt` é um nome que irá substituir (nome alternativo) a imagem, caso esta não seja carregada por algum motivo;
-- `width` é a largura da imagem e *n* é um número inteiro. 
+- `width` é a largura da imagem e *n* é um número inteiro.
+- Além disso, todos esses comandos podem ser digitados na mesma linha, ou seja, caso ideal quanda a imagem (ou equação) estiver *inline*.
 
 Pra deixar centralizada em relação à largura da margem do texto, usamos os comandos em _html_:
 
