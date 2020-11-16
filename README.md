@@ -65,6 +65,7 @@ Sumário
        - [Em Html](#em-html)
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
+   * [Usando o .gitignore](#usando-o-gitignore)
 <!--te-->
 ---
 
@@ -182,5 +183,9 @@ mementos_GitHub/
   │   └── fig-github.png
   └── README.md
 ```
+# Usando o .gitignore
+
+- Para ignorar uma pasta, basta digitar no arquivo `.gitignore`: `nome-da-pasta/` 
+- para ignorar arquivos: `*.extensao-do-arquivo` 
 
 
