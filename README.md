@@ -153,6 +153,7 @@ Caso precise centralizar, é melhor usar _html_:
       src   = "/figs/gato-felix.gif"
    >
 </p>
+
 # Escrevendo em LaTeX
 
 Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
