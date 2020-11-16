@@ -144,14 +144,15 @@ Caso precise centralizar, é melhor usar _html_:
 <p align="center">
    <img 
         align = "center" 
-        src   = "/figs/gato-felix.gif">
+        src   = "/figs/gato-felix.gif
+   />
 </p>
 ```
 <p align="center">
    <img 
       align = "center" 
       src   = "/figs/gato-felix.gif"
-   >
+   />
 </p>
 
 # Escrevendo em LaTeX
