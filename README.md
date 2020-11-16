@@ -60,7 +60,7 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
 - Tal site pode sugerir os _badges_ ou podemos criar um;
      + Caso criemos um, uma imagem é gerada sem um link. Então, precisamos colocar `![url-da-imagem-gerada](link-desejado)`;
 - Tenho percebido que o _Html_ facilita na hora da centralização dos objetos. 
-Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui](https://github.com/alexandresanlim/Badges4-README.md-Profile).
+Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui <i style="font-size:24px" class="fa">&#xf08e;</i>](https://github.com/alexandresanlim/Badges4-README.md-Profile) <i style="font-size:24px" class="fa">&#xf08e;</i>.
 
 # Alinhamento e Dimensionamento de Imagem
 ### Em Markdown
