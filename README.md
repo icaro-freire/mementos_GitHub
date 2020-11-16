@@ -14,8 +14,19 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/icaro-freire/mementos_GitHub">
-  <a href="https://github.com/icaro-freire/mementos_GitHub/network"><img align="center" alt="GitHub forks" src="https://img.shields.io/github/forks/icaro-freire/mementos_GitHub"></a>
+  <img
+       align = "center" 
+       alt   = "GitHub last commit" 
+       src   = "https://img.shields.io/github/last-commit/icaro-freire/mementos_GitHub"
+  \>
+  <a
+       href="https://github.com/icaro-freire/mementos_GitHub/network">
+         <img 
+              align = "center" 
+              alt   = "GitHub forks" 
+              src   = "https://img.shields.io/github/forks/icaro-freire/mementos_GitHub"
+         >
+  </a>
   <a href="https://github.com/icaro-freire/mementos_GitHub/stargazers"><img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/icaro-freire/mementos_GitHub"></a>
   <a href="https://github.com/icaro-freire/mementos_GitHub/issues"><img align="center" alt="GitHub issues" src="https://img.shields.io/github/issues/icaro-freire/mementos_GitHub"></a>
 </p>
@@ -120,8 +131,9 @@ Como mostra a figura a seguir:
 
 # Criando Árvore de Diretórios para o GitHub
 - Uso o _site_ [tree](https://tree.nathanfriend.io/) para digitar meus diretórios de maneira bem simples.
-- Depois copio o texto gerado pelo site
-- Por fim, colo aqui no README do GitHub
+- Depois copio o texto gerado pelo site;
+- Por fim, colo aqui no README do GitHub.
+
 Por exemplo, a árvore de diretórios desse repositório aqui mesmo, é dada por:
 
 ```bash
