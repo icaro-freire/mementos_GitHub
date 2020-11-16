@@ -26,6 +26,7 @@ Sumário
 -------------------
 <!--ts-->
    * [Colocando Imagem Inicial no README](#colocando-imagem-inicial-no-readme)
+   * [Botões Estilizados (Badges)](#botões-estilizados)
    * [Alinhamento e Dimensionamento de Imagem](#alinhamento-e-dimensionamento-de-imagem)
        - [Em Markdown](#em-markdown)
        - [Em Html](#em-html)
@@ -54,10 +55,17 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
   </p>
 </p>
 ```
-## Alinhamento e Dimensionamento de Imagem
-#### Em Markdown
+# Botões Estilizados (Badges)
+- Para colocar os vários botões estilizados, pode ser usado o _site_ [shields.io](https://shields.io/);
+- Tal site pode sugerir os _badges_ ou podemos criar um;
+     + Caso criemos um, uma imagem é gerada sem um link. Então, precisamos colocar `![url-da-imagem-gerada](link-desejado)`;
+- Tenho percebido que o _Html_ facilita na hora da centralização dos objetos. 
+Um repositório que contém muitas informações sobre customização de _badges_ é esse [daqui](https://github.com/alexandresanlim/Badges4-README.md-Profile).
+
+# Alinhamento e Dimensionamento de Imagem
+### Em Markdown
 Para inserir uma imagem em markdown, basta fazer `![](caminho-da-imagem)`.
-#### Em Html
+### Em Html
 Para inserir e dimensionar, usamos:
 ```html
 <img align="center" src="caminho-da-imagem" alt="nome-alternativo" width="n"/>
