@@ -221,7 +221,7 @@ Usamos, então, o código:
 
 ```html
 <embed
-    src    = "docs/modelo_ativmatUFRB.pdf" 
+    src    = "/docs/modelo_ativmatUFRB.pdf" 
     width  = "800px" 
     height = "2100px"
 />
@@ -230,7 +230,7 @@ Usamos, então, o código:
 O qual produz:
 
 <embed
-    src    = "docs/modelo_ativmatUFRB.pdf" 
+    src    = "/docs/modelo_ativmatUFRB.pdf" 
     width  = "800px" 
     height = "2100px"
 />
