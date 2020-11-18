@@ -144,14 +144,15 @@ Caso precise centralizar, é melhor usar _html_:
 <p align="center">
    <img 
         align = "center" 
-        src   = "/figs/gato-felix.gif">
+        src   = "/figs/gato-felix.gif
+   />
 </p>
 ```
 <p align="center">
    <img 
       align = "center" 
       src   = "/figs/gato-felix.gif"
-   >
+   />
 </p>
 
 # Escrevendo em LaTeX
@@ -209,7 +210,7 @@ mementos_GitHub/
 ```
 # Usando o .gitignore
 
-- Para ignorar uma pasta, basta digitar no arquivo `.gitignore`: `nome-da-pasta/` 
+- Para ignorar uma pasta, basta digitar no arquivo _.gitignore_: `nome-da-pasta/` 
 - para ignorar arquivos: `*.extensao-do-arquivo` 
 
 # Como embedar um pdf na página?
