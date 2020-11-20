@@ -208,7 +208,24 @@ mementos_GitHub/
   │   └── fig-github.png
   └── README.md
 ```
+Uma outra opção é usar o uma extensão para o editor [Vs Code](https://code.visualstudio.com/), denominada [file-tree-generator
+][tree-file].
+Com ela, a mesma árvore acima é dada por:
+
+📦mementos_GitHub </br>
+ ┣ 📂figs </br>
+ ┃ ┣ 📜codecogs.png </br>
+ ┃ ┣ 📜fig-github.png </br>
+ ┗ 📜README.md </br>
+ 
+ **Obs.:** Cada linha acima deve ser quebrada com `</br>`.
+
+[tree-file]: https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator
+
 # Usando o .gitignore
 
 - Para ignorar uma pasta, basta digitar no arquivo _.gitignore_: `nome-da-pasta/` 
 - para ignorar arquivos: `*.extensao-do-arquivo` 
+
+# Linha horizontal em Html
+Para fazer uma linha horizontal, em _html_ usamos: `<hr width="X%">` ou `<hr width="X">` ou `<hr width="X px">`.
