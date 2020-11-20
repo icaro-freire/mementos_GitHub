@@ -224,5 +224,4 @@ Assim, o código abaixo
   Meu GitHub
 </a>
 ```
-produz:  <a href = "https://github.com/icaro-freire" target = "_blank">  Meu GitHub </a>
-
+produz: <a href="https://github.com/icaro-freire" target="_blank">Meu GitHub</a>
