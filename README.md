@@ -67,6 +67,7 @@ Sumário
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
    * [Usando o .gitignore](#usando-o-gitignore)
+   * [Abrindo link em outra página](#abrindo-link-em-outra-página)
 <!--te-->
 ---
 
@@ -212,4 +213,16 @@ mementos_GitHub/
 
 - Para ignorar uma pasta, basta digitar no arquivo _.gitignore_: `nome-da-pasta/` 
 - para ignorar arquivos: `*.extensao-do-arquivo` 
+
+# Abrindo link em outra página
+Para colocar um link em _Html_ usamos a _tag_ `<a> ... </a>`, de _anchor_ (âncora).
+Fica assim: `<a href = "caminho-desejado"> Texto para o link </a>`.
+Entretanto, caso queiramos abrir esse _link_ em outra aba, usamos _target_ (alvo) com o parâmetro "_blank" dentro do código.
+Assim, o código abaixo
+```
+<a href = "https://github.com/icaro-freire" target = "_blank">
+  Meu GitHub
+</a>
+```
+produz:  <a href = "https://github.com/icaro-freire" target = "_blank">  Meu GitHub </a>
 
