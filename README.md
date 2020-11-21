@@ -4,7 +4,7 @@
       align = "center"
       src   = "https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
       alt   = "Mementos GitHub" 
-  />
+  >
   <h2 align = "center">
       Mementos do GitHub 
           <p align = "center">
@@ -18,7 +18,7 @@
        align = "center" 
        alt   = "GitHub last commit" 
        src   = "https://img.shields.io/github/last-commit/icaro-freire/mementos_GitHub"
-  \>
+  >
   <a href="https://github.com/icaro-freire/mementos_GitHub/network">
       <img 
           align = "center" 
@@ -81,7 +81,7 @@ Para colocar a imagem na página inicial de cada reposotório, no README.md, usa
         align = "center"
         src   = "https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/fig-github.png"
         alt   = "Mementos GitHub" 
-  />
+  >
   <h2 align = "center">
       Mementos GitHub
   </h2>
@@ -109,7 +109,7 @@ Para inserir e dimensionar, usamos:
      src   = "caminho-da-imagem" 
      alt   = "nome-alternativo" 
      width = "n"
-/>
+>
 ```
 Obsservações
 - `align` centraliza a imagem _inline_;
@@ -127,7 +127,7 @@ Pra deixar centralizada em relação à largura da margem do texto, usamos os co
        src   = "caminho-da-imagem" 
        alt   = "nome-alternativo" 
        width = "n"
-  />
+  >
 </p>
 ```
 ### Imagens por caminhos absolutos
@@ -145,20 +145,32 @@ Caso precise centralizar, é melhor usar _html_:
    <img 
         align = "center" 
         src   = "/figs/gato-felix.gif
-   />
+   >
 </p>
 ```
 <p align="center">
    <img 
       align = "center" 
       src   = "/figs/gato-felix.gif"
-   />
+   >
 </p>
 
 # Escrevendo em LaTeX
 
-Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\LaTeX" title="\LaTeX" /></a>.
-Para fazer isso, é preciso gerar um `html` num editor _online_ de <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>.
+Não consegui escrever diretamente no README usando o 
+<a href = "https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target = "_blank">
+  <img 
+       src   = "https://latex.codecogs.com/svg.latex?\LaTeX" 
+       title = "\LaTeX"
+  >
+</a>.
+Para fazer isso, é preciso gerar um `html` num editor _online_ de 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank">
+  <img 
+       src   = "https://latex.codecogs.com/gif.latex?\LaTeX" 
+       title = "\LaTeX" 
+  >
+</a>.
 Particularmente, uso o [codecogs][CD].
 
 [CD]: https://www.codecogs.com/latex/eqneditor.php?lang=pt-br
@@ -169,7 +181,7 @@ Por exemplo, se quero gerar a equação:
   <img 
       src   = "https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
       title = "f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
-  />
+  >
 </p>
 
 Usamos os comandos
@@ -179,7 +191,7 @@ Usamos os comandos
   <img 
       src   = "https://latex.codecogs.com/gif.latex?f(z_0)&space;=&space;\frac{1}{2\pi&space;i}\oint_\Gamma&space;\frac{f(z)}{z&space;-&space;z_0}\,\textrm{d}z"
       title = "f(z_0) = \frac{1}{2\pi i}\oint_\Gamma \frac{f(z)}{z - z_0}\,\textrm{d}z"
-  />
+  >
 </p>
 ```
 Mas, para gerar esses comandos, precisamos:
@@ -190,7 +202,10 @@ Mas, para gerar esses comandos, precisamos:
 Como mostra a figura a seguir:
 
 <p align="center">
-  <img align="center" src="https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"/>
+  <img 
+       align = "center" 
+       src   = "https://github.com/icaro-freire/mementos_GitHub/blob/master/figs/codecogs.png" alt="figura" width="700"
+  >
 </p>
 
 # Criando Árvore de Diretórios para o GitHub
@@ -211,14 +226,15 @@ mementos_GitHub/
 Uma outra opção é usar o uma extensão para o editor [Vs Code](https://code.visualstudio.com/), denominada [file-tree-generator
 ][tree-file].
 Com ela, a mesma árvore acima é dada por:
-
-📦mementos_GitHub </br>
- ┣ 📂figs </br>
- ┃ ┣ 📜codecogs.png </br>
- ┃ ┣ 📜fig-github.png </br>
- ┗ 📜README.md </br>
+<pre>
+📦mementos_GitHub 
+ ┣ 📂figs 
+ ┃ ┣ 📜codecogs.png 
+ ┃ ┣ 📜fig-github.png 
+ ┗ 📜README.md 
+</pre> 
  
- **Obs.:** Cada linha acima deve ser quebrada com `</br>`.
+ **Obs.:** o resultado deve estar dentro da _tag_ `<pre> ... </pre>`, para que seja mantido o alinhamento vertical.
 
 [tree-file]: https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator
 
