@@ -157,20 +157,8 @@ Caso precise centralizar, é melhor usar _html_:
 
 # Escrevendo em LaTeX
 
-Não consegui escrever diretamente no README usando o 
-<a href = "https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target = "_blank">
-  <img 
-       src   = "https://latex.codecogs.com/svg.latex?\LaTeX" 
-       title = "\LaTeX"
-  >
-</a>.
-Para fazer isso, é preciso gerar um `html` num editor _online_ de 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank">
-  <img 
-       src   = "https://latex.codecogs.com/gif.latex?\LaTeX" 
-       title = "\LaTeX" 
-  >
-</a>.
+Não consegui escrever diretamente no README usando o <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX" title="\LaTeX" /></a>
+Para fazer isso, é preciso gerar um `html` num editor _online_ de LaTeX.
 Particularmente, uso o [codecogs][CD].
 
 [CD]: https://www.codecogs.com/latex/eqneditor.php?lang=pt-br
