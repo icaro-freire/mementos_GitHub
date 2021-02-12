@@ -67,6 +67,8 @@ Sumário
    * [Escrevendo em LaTeX](#escrevendo-em-latex)
    * [Criando Árvore de Diretórios para o GitHub](#criando-árvore-de-diretórios-para-o-github)
    * [Usando o .gitignore](#usando-o-gitignore)
+   * [Linha horizontal em Html](#linha-horizontal-em-html)
+   * [Visualizando pdf](#visualizando-pdf)
 <!--te-->
 ---
 
@@ -233,3 +235,8 @@ Com ela, a mesma árvore acima é dada por:
 
 # Linha horizontal em Html
 Para fazer uma linha horizontal, em _html_ usamos: `<hr width="X%">` ou `<hr width="X">` ou `<hr width="X px">`.
+
+# Visualizando pdf
+
+Uma das formads para visualizar o arquivo `.pdf` diretamente é usando o site [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/).
+- Basta digitar o `url` (que está no GitHub) do pdf.
