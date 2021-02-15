@@ -69,6 +69,8 @@ Sumário
    * [Usando o .gitignore](#usando-o-gitignore)
    * [Linha horizontal em Html](#linha-horizontal-em-html)
    * [Visualizando pdf](#visualizando-pdf)
+       - [Com nbviewer](#com-nbviewer)
+       - [Com GitHub Pages](#com-github-pages)
 <!--te-->
 ---
 
@@ -237,6 +239,15 @@ Com ela, a mesma árvore acima é dada por:
 Para fazer uma linha horizontal, em _html_ usamos: `<hr width="X%">` ou `<hr width="X">` ou `<hr width="X px">`.
 
 # Visualizando pdf
-
-Uma das formads para visualizar o arquivo `.pdf` diretamente é usando o site [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/).
-- Basta digitar o `url` (que está no GitHub) do pdf.
+### Com nbviewer
+- Abrir o *site* [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/);
+- Digitar o `url` (que está no GitHub) do pdf.
+### Com GitHub Pages
+Para usar a visualização direta do `.pdf` no próprio GitHub, precisamos ativar a *GitHub Pages*.
+- Ir em `Settings`;
+- Rolar até `GitHub Pages`;
+  - Em *Source*, escolher o *Branch* adequado;
+  - Escolher uma pasta adequada: pode ser a raiz (*root*) ou criar uma (geralmente *docs*);
+  - Salvar;
+  - Atualizar algumas vezes a página do seu projeto;
+  - O *link* para o `.pdf` é: `https://seu-usuario.github.io/nome-do-projeto/nome-do-arquivo.pdf`
