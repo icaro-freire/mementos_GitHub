@@ -74,6 +74,7 @@ Sumário
    * [Comentários em códigos](#comentarios-em-codigos)
        - [Um simples comentário](#um-simples-comentario)
        - [Comentar várias linhas](#comentar-varias-linhas)
+
 <!--te-->
 ---
 
@@ -258,6 +259,7 @@ Para usar a visualização direta do `.pdf` no próprio GitHub, precisamos ativa
 # Comentários em códigos
 ## Um simples comentário
 Para um simples comentário, usamos a sintax:
+
 ```
 "aqui deve conter uma linhas vazia"
 [comentário]: # (escreva aqui seu comentário)
@@ -266,9 +268,9 @@ Para um simples comentário, usamos a sintax:
 - Seu comentário deve estar entre parênteses;
 - Deve conter uma linha vazia antes do comentário.
 - Entre o colchete, pode vir qualquer texto (geralmente com o nome "comentário", para o identidicar)
-
 ## Comentar várias linhas
 Para comentar várias linhas, usamos a sintax:
+
 ```html
 <!--
 Escreva aqui
@@ -276,3 +278,4 @@ seu
 Comentário
 -->
 ```
+
