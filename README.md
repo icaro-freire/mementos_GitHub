@@ -298,9 +298,9 @@ A *tag* `<details> ... </details>` colapsa um texto longo dentro de um tópico d
     Texto longo sobre o tótico 02 ...
     <details>
       <summary>
-        * Subtópico 2.1
+        Subtópico 2.1
       </summary>
-        - Pode fazer subtópicos também!
+        Pode fazer subtópicos também!
     </details>
 </details>
 
