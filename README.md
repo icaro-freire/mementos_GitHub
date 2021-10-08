@@ -74,6 +74,7 @@ Sumário
    * [Comentários em códigos](#comentarios-em-codigos)
        - [Um simples comentário](#um-simples-comentario)
        - [Comentar várias linhas](#comentar-varias-linhas)
+   * [Texlo colapsado](#texto-colapsado)
 
 <!--te-->
 ---
@@ -257,6 +258,7 @@ Para usar a visualização direta do `.pdf` no próprio GitHub, precisamos ativa
   - O *link* para o `.pdf` é: `https://seu-usuario.github.io/nome-do-projeto/nome-do-arquivo.pdf`
 
 # Comentários em códigos
+
 ## Um simples comentário
 Para um simples comentário, usamos a sintax:
 
@@ -279,3 +281,48 @@ Comentário
 -->
 ```
 
+# Texto colapsado
+
+A *tag* `<details> ... </details>` colapsa um texto longo dentro de um tópico destacado (fazemos esse destaque no tópico com a *tag* `<summary> ... </summary>`).
+
+<details>
+  <summary>
+    Tópico 01
+  </summary>
+    Texto longo sobre o tótico 01 ...
+</details>
+<details>
+  <summary>
+    Tópico 02
+  </summary>
+    Texto longo sobre o tótico 02 ...
+    <details>
+      <summary>
+        * Subtópico 2.1
+      </summary>
+        - Pode fazer subtópicos também!
+    </details>
+</details>
+
+A ideia acima foi gerada com:
+
+```html
+<details>
+  <summary>
+    Tópico 01
+  </summary>
+    Texto longo sobre o tótico 01 ...
+</details>
+<details>
+  <summary>
+    Tópico 02
+  </summary>
+    Texto longo sobre o tótico 02 ...
+    <details>
+      <summary>
+        Subtópico 2.1
+      </summary>
+        Pode fazer subtópicos também!
+    </details>
+</details>
+```
